@@ -67,16 +67,16 @@ com.android.printspooler
 
 # Personal choice: uncomment what you don't use
 # com.nvidia.ota                       # firmware updates; NVIDIA still ships security patches
-# com.google.android.katniss           # Google Assistant (the mic button stops working)
-# com.google.android.speech.pumpkin    # on-device speech; also breaks in-app mic buttons
+ com.google.android.katniss           # Google Assistant (the mic button stops working)
+ com.google.android.speech.pumpkin    # on-device speech; also breaks in-app mic buttons
 # com.google.android.apps.mediashell   # Chromecast built-in
 # com.google.android.backdrop          # Ambient mode screensaver, see notes
-# com.nvidia.osc                       # NVIDIA's in-game overlay
-# com.nvidia.shield.smbserver          # "Transfer files over local network" SMB share
-# com.google.android.tv                # Live Channels; keep it for a network tuner
-# com.google.android.play.games
+ com.nvidia.osc                       # NVIDIA's in-game overlay
+ com.nvidia.shield.smbserver          # "Transfer files over local network" SMB share
+ com.google.android.tv                # Live Channels; keep it for a network tuner
+ com.google.android.play.games
 # com.netflix.ninja                    # Netflix
-# com.amazon.amazonvideo.livingroom.nvidia  # Prime Video (system copy)
+ com.amazon.amazonvideo.livingroom.nvidia  # Prime Video (system copy)
 # com.amazon.amazonvideo.livingroom    # Prime Video (Play Store copy)
 # com.google.android.youtube.tv
 # com.google.android.youtube.tvmusic
@@ -88,7 +88,9 @@ com.android.printspooler
 # com.nvidia.shield.nvcustomize
 # com.nvidia.shield.registration
 # com.nvidia.shieldbeta
-# com.nvidia.hotwordsetup
+ com.nvidia.hotwordsetup
+ com.android.hotwordenrollment.xgoogle
+ com.android.hotwordenrollment.okgoogle
 # com.nvidia.factorybundling
 # com.nvidia.benchmarkblocker
 # com.nvidia.NvCPLUpdater

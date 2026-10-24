@@ -54,6 +54,10 @@ net.vidaatv.hisense.android.tv         # VIDAA app preload
 com.hisense.fte                        # first-time experience
 com.hisense.hibrowser
 com.hisense.service.message            # Hisense push messages
+net.vidaatv.android.tv
+net.vidaatv.hisense.android.tv
+com.vidaa.persistent.service
+air.com.vudu.air.DownloaderTablet
 
 # Retail demo / store / hotel mode
 com.hisense.storemode
@@ -62,14 +66,15 @@ com.hisense.tv.b2b
 com.demo
 
 # Firmware updates. Re-enable all three to receive an OTA update.
-com.hisense.tv.ota
-com.hisense.remoteupgrade
-com.vt.tv.usbota
+#com.hisense.tv.ota
+#com.hisense.remoteupgrade
+#com.vt.tv.usbota
 
 # Google home-screen content
 com.google.android.tvrecommendations
 com.google.android.videos              # Google TV movies
 com.google.android.youtube.tvmusic
+com.google.android.play.games
 
 # Voice assistants. The remote's microphone button stops working.
 com.hisense.alexa
